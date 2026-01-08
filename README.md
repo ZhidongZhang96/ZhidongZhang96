@@ -9,8 +9,8 @@
   <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhidongzhang96&show_icons=true&theme=tokyonight" />
 </a>
 
-![](https://github-readme-stats.vercel.app/api?username=ZhidongZhang96)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhidongZhang96&hide_langs_below=1&theme=default&line_height=27&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=zhidongzhang96)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhidongzhang96&hide_langs_below=1&theme=default&line_height=27&layout=compact)
 
 <!--
 **Antony-Zhang/Antony-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
